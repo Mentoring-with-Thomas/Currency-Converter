@@ -10,4 +10,4 @@
 
 **Next Meeting**
 
-- Friday 11/3/2024 right after morning session
+- Friday 10/4/2024 right after morning session

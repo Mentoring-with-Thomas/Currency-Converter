@@ -13,3 +13,4 @@
 - Friday 10/4/2024 right after morning session (GitHub Session)
 
 # Veränderung Andreas
+# Veränderung Hao

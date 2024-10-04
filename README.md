@@ -5,9 +5,9 @@
 **Goals and Plan**
 
 - Weekly meetings 👨‍💻👩‍💻📈
-- Github Session on Friday 💻
+- GitHub Session on Friday 💻
 - Learn and explore together 🎓🤝
 
 **Next Meeting**
 
-- Friday 10/4/2024 right after morning session (Github Session)
+- Friday 10/4/2024 right after morning session (GitHub Session)
